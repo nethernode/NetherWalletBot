@@ -3,7 +3,7 @@
 
 # pip install pipreqs && pipreqs .
 discord.py==1.7.3
-requests==2.27.1
+requests==2.31.0
 schedule==1.1.0
 python-ibc>=0.2.0
 discord_webhook
