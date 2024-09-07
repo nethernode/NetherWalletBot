@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 python:3-alpine
+FROM --platform=linux/amd64 python:3.13.0a1-alpine
 
 LABEL Maintainer="reecepbcups"
 
